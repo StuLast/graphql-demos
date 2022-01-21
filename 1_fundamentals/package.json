@@ -1,0 +1,14 @@
+{
+  "name": "graphql-1-fundamentals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:StuLast/graphql-demos.git",
+  "author": "Stu Last <stuart@last-family.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.2.0",
+    "lodash": "^4.17.21"
+  }
+}
